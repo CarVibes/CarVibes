@@ -9,6 +9,8 @@ Au début des années 1980, la supercar reste un objet rare, souvent difficile �
 
 Parmi les modèles marquants de cette décennie, on trouve la Porsche 959, conçue à l’origine pour le fameux « Groupe B » en rallye, qui introduit la transmission intégrale, la carrosserie mêlant aluminium et matériaux composites, et une gestion électronique avancée du moteur. La Ferrari F40, dévoilée en 1987, devient rapidement une icône avec son V8 biturbo, sa structure en Kevlar et carbone et son approche radicale dépouillée de confort, symbole de la démesure sportive de la fin des années 1980. La Lamborghini Countach, déjà apparue dans les années 1970, se radicalise encore en version 5000 Quattrovalvole, avec un V12 encore plus puissant et un style anguleux qui incarne l’imaginaire « poster de chambre » de cette époque.
 
+![Lamborghini Aventador](https://www.publicdomainpictures.net/pictures/450000/velka/yellow-lamborghini-car-1648230270oe9.jpg)
+
 2. Les années 1990 : finesse et technologie
 Dans les années 1990, la supercar gagne en sophistication : l’objectif n’est plus seulement la vitesse de pointe, mais aussi la stabilité, la fiabilité et l’utilisation de matériaux de pointe comme la fibre de carbone. Les constructeurs adoptent l’aérodynamique travaillée en soufflerie, les boîtes de vitesses plus rapides et les freins plus endurants pour maîtriser des puissances toujours croissantes.
 
