@@ -9,12 +9,14 @@ Au début des années 1980, la supercar reste un objet rare, souvent difficile �
 
 Parmi les modèles marquants de cette décennie, on trouve la Porsche 959, conçue à l’origine pour le fameux « Groupe B » en rallye, qui introduit la transmission intégrale, la carrosserie mêlant aluminium et matériaux composites, et une gestion électronique avancée du moteur. La Ferrari F40, dévoilée en 1987, devient rapidement une icône avec son V8 biturbo, sa structure en Kevlar et carbone et son approche radicale dépouillée de confort, symbole de la démesure sportive de la fin des années 1980. La Lamborghini Countach, déjà apparue dans les années 1970, se radicalise encore en version 5000 Quattrovalvole, avec un V12 encore plus puissant et un style anguleux qui incarne l’imaginaire « poster de chambre » de cette époque.
 
-![Lamborghini Aventador](https://t3.ftcdn.net/jpg/05/42/97/02/240_F_542970294_x7xfS7pJ0hAD92kPnpoDvfqSzTTOvaaq.jpg)
+![Lamborghini Countach](https://t3.ftcdn.net/jpg/05/42/97/02/240_F_542970294_x7xfS7pJ0hAD92kPnpoDvfqSzTTOvaaq.jpg)
 
 2. Les années 1990 : finesse et technologie
 Dans les années 1990, la supercar gagne en sophistication : l’objectif n’est plus seulement la vitesse de pointe, mais aussi la stabilité, la fiabilité et l’utilisation de matériaux de pointe comme la fibre de carbone. Les constructeurs adoptent l’aérodynamique travaillée en soufflerie, les boîtes de vitesses plus rapides et les freins plus endurants pour maîtriser des puissances toujours croissantes.
 
 La Bugatti EB110 illustre ce tournant avec son moteur V12 quadriturbo, sa transmission intégrale et son utilisation massive de carbone pour la structure, symbolisant le retour de Bugatti dans le monde des supercars. McLaren, forte de son expérience en Formule 1, lance la McLaren F1, une machine de route à moteur V12 atmosphérique, position de conduite centrale et châssis en fibre de carbone, qui devient l’une des voitures de production les plus rapides du monde et une référence absolue en matière de pureté de conduite. Ces modèles ouvrent la voie à une nouvelle génération de supercars où la précision d’ingénierie compte autant que la puissance brute.
+
+![Bugatti EB110]({{"/asset/img/Bugatti-EB110.jpg" |relative_ur1}})
 
 3. Les années 2000 : l’ère des hypercars
 Avec les années 2000, la limite entre supercar et hypercar commence à se dessiner : certains modèles ne se contentent plus d’être « très rapides », ils redéfinissent les records absolus de vitesse, de puissance et de prix. Les constructeurs utilisent des moteurs aux architectures extrêmes et des transmissions particulièrement élaborées pour exploiter des puissances à quatre chiffres.
