@@ -16,7 +16,7 @@ Dans les années 1990, la supercar gagne en sophistication : l’objectif n’es
 
 La Bugatti EB110 illustre ce tournant avec son moteur V12 quadriturbo, sa transmission intégrale et son utilisation massive de carbone pour la structure, symbolisant le retour de Bugatti dans le monde des supercars. McLaren, forte de son expérience en Formule 1, lance la McLaren F1, une machine de route à moteur V12 atmosphérique, position de conduite centrale et châssis en fibre de carbone, qui devient l’une des voitures de production les plus rapides du monde et une référence absolue en matière de pureté de conduite. Ces modèles ouvrent la voie à une nouvelle génération de supercars où la précision d’ingénierie compte autant que la puissance brute.
 
-![Bugatti EB110]({{"/asset/img/Bugatti-EB110.jpg" |relative_ur1}})
+
 
 3. Les années 2000 : l’ère des hypercars
 Avec les années 2000, la limite entre supercar et hypercar commence à se dessiner : certains modèles ne se contentent plus d’être « très rapides », ils redéfinissent les records absolus de vitesse, de puissance et de prix. Les constructeurs utilisent des moteurs aux architectures extrêmes et des transmissions particulièrement élaborées pour exploiter des puissances à quatre chiffres.
